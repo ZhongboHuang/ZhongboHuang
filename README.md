@@ -5,6 +5,14 @@
                               -- 一条想翻身的咸鱼
 </pre>
 
+<!-- profile logo 个人资料徽标 -->
+<div>
+  <a href="https://zhongbohuang.github.io/hzb-blog-vitepress/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+  <!-- visitor statistics logo 访问量统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=ZhongboHuang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
+  <img src="https://badges.pufler.dev/visits/ZhongboHuang/ZhongboHuang?color=black&logo=github">
+</div>
+
 **Frameworks and Tools:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
